@@ -8,7 +8,7 @@ def second_challenge
   }
 nuarray = groceries.values
 nuarray.flatten
-  groceries.values#code your solution here!
+  #code your solution here!
 
 
 
